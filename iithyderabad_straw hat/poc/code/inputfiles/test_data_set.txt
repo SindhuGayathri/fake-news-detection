@@ -1,0 +1,11 @@
+DeccanChronicle,true,Jagan,politics,sharukhan,Movies,person66,person69,topic90,Negative, 2017-11-06 063539.214
+AajTak,true,kasyap,Batminton,ArvindKejriwal,politics,person91,person15,topic32,Negative, 2017-11-06 063539.214
+NDTVx,true,Jagan,politics,sehwagh,Cricket,person98,person84,topic5,Positive, 2017-11-06 063539.214
+WionTv,true,dravid,Cricket,virat,Cricket,person38,person69,topic94,Negative, 2017-11-06 063539.214
+twitter,fake,paneerSelvam,politics,navinPatnayak,politics,person49,person10,topic75,Positive, 2017-11-06 063539.214
+TezTV,true,chandrababu,politics,rajkumarhirani,Movies  ,person22,person94,topic83,Negative, 2017-11-06 063539.214
+CNN-News,true,sunilgavaskar,Cricket,sania,Tennis,person40,person2,topic26,Positive, 2017-11-06 063539.214
+IndiaTV,true,pvsindu,Batminton,anand,Chess,person53,person97,topic28,Negative, 2017-11-06 063539.214
+ZeeNews,true,sachintendulkar,Cricket,RahulGandhi,politics,person38,person91,topic37,Negative, 2017-11-06 063539.214
+News,true,anand,Chess,dravid,Cricket,person76,person23,topic43,Positive, 2017-11-06 063539.214
+AryanTV,fake,kajol,Movies,sehwagh,Cricket,person96,person63,topic41,Negative, 2017-11-06 063539.214

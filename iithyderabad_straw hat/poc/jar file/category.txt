@@ -1,0 +1,10 @@
+sports:20
+Movies:70
+politics:60
+business:40
+Weather:10
+Batminton:12
+Chess:15
+Tennis:30
+Boxing:10
+Cricket:10

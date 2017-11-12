@@ -1,0 +1,5 @@
+team name : straw hats
+topic : fake news detection
+team leader : g da sindhu.
+team member 1 : mohan krishna galala
+team member 2:  vaddadi venkatesh
